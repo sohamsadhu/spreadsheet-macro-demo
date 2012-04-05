@@ -1,0 +1,12 @@
+This is a demo in writing and executing macros in open office basic.
+
+The file readme.pdf contains all the information related to this piece of software,
+what it does and the requirements for the same. 
+
+The first tab in spread sheet contains the project.
+
+To view how the button click works you have to look at the macros. Open the project 
+spreadsheet and go to Tools > Macros > Organise Macros > Openoffice.org Basic and a 
+window pops up. In the window click on project.ods then on the standard library and then 
+on email_grades module. Then click edit. The open office basic editor ide will open and 
+with it the entire code.
